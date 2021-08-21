@@ -69,7 +69,7 @@ export default {
 
       // this.$emit('survey-submit', {
       //   userName: this.enteredName,
-      //   rating: this.chosenRating
+      //   rating: this.chosenRating,
       // });
 
       fetch(
